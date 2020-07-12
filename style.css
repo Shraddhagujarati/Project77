@@ -1,0 +1,13 @@
+body
+{
+   background: linear-gradient(#48d09b 0%, #ffc3a0 100%);
+  text-align:center;
+  margin: 0;
+  font-size: 15px;
+    line-height: 1.2;
+    font-family: cursive
+}
+#family_member_image
+{
+  Height : 350px;
+}
